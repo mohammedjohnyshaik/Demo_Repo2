@@ -2,6 +2,6 @@
 
 Some text
 
-## Sub Heading 
+## SubHeading
 
 Adding to check branch
